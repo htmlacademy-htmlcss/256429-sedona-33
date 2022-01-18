@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Kamil Abdumuminov](https://up.htmlacademy.ru/htmlcss/33/user/256429).
-* Наставник: `Неизвестно`.
+* Наставник: [Ольга Тюлихова] (https://htmlacademy.ru/profile/id523263)
 
 ---
 
